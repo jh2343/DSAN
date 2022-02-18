@@ -25,7 +25,7 @@ planning
 	* RNN 
 *  555: Data structures 
 *  580: NLP
-*  590: Deep learning 
+*  **590: Deep learning** 
 	* Review: 
 		* optimization 
 		* linear+logistic regression    
