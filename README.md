@@ -11,6 +11,7 @@ planning
 ## CORE 
 
 *  501: 
+    *  Classification
 	*  Decision trees
 *  502: 
 *  503: Visualizatoin
