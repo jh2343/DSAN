@@ -1,11 +1,30 @@
-# DSAN OVERVIEW 
-planning 
-
+# DSAN COURSES  
 
 ## CORE 
 
-*  Bootcamp 
-	* 	501: 
+
+
+
+
+
+
+
+
+- **ANLY-512: Statistical Learning**
+	- **Lead : Purna** 
+	- **Textbook :** Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, An Introduction to Statistical Learning with  Applications  in  R. 
+	- **Topics**
+		-  **Introduction to statisical learning and linear regression**: Assessing Model Accuracy, Single/Multi-variable linear regression, Least Squares
+		-  **Model validation**, Cross-Validation,leave one out, k-fold,
+Subset Selection,AIC, BIC, Mallow's Cp,feature selection (backward forward)
+		-  **Non-linear regression, interpolation, smoothing methods**: Shrinkage Methods, RIDGE and LASSO regularization, Polynomial regression, Generalized Additive Models (GAM), LOESS, Interpolation,  Regression Splines, smoothing splines
+		-  **Classification**: Logistic Regression, K-Nearest Neighbors, Linear/Quadratic discriminant analysis (LDA and QDA), Artificial Neural Networks 
+		- **Un-supervised learning-1**, Bagging, Boosting, random forests,  Clustering
+		- **Un-supervised learning-2**, Principal Components Analysis (PCA), Proportion of Explained Variance
+
+
+
+
 
 
 ## CORE 
